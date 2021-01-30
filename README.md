@@ -12,7 +12,8 @@ Dev Finances foi desenvolvido para servir como uma agenda para monitorar suas fi
  - CSS
 ### Clonar o projeto via terminal
 ```sh
-    aqui vão os passos para clonar o projeto
+    git clone https://github.com/marcoskloss/dev-finances.git
+    cd dev-finances
 ```
 
 #### Mais sobre minha experiência nesse projeto aqui:
