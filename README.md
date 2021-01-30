@@ -17,4 +17,4 @@ Dev Finances foi desenvolvido para servir como uma agenda para monitorar suas fi
 ```
 
 #### Mais sobre minha experiência nesse projeto aqui:
-[link post linkedin](url)
+[linkedin.com/posts/marcos-kloss](https://www.linkedin.com/posts/marcos-kloss_finalizado-o-projeto-dev-finances-realizado-activity-6761413585555005440-v6gB)
