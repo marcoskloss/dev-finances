@@ -4,7 +4,7 @@ Dev Finances foi desenvolvido para servir como uma agenda para monitorar suas fi
 
 
 ### Preview
-![](/assets/preview.gif)
+![](./assets/preview.gif)
 
 ## Tecnologias Utilizadas
  - JavaScript
