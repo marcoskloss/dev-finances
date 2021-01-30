@@ -1,9 +1,3 @@
-/*O salaryModal será uma entrada que uma vez informada,
- será repetida todo mês automaticamente na data indicada
- OU MELHOR:
- adicionar um radio button que ao ser escolhido fara com que
- a transacao adicionada se repita mensalmente na data indicada*/
-
 const Modal = {
   toggle() {
     document
